@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
+
 """
-Evaluador de conversaciones en vivo entre DOS personas.
+Evaluador de conversaciones en vivo entre cliente y servidor.
 Cuenta tokens con los tokenizadores EXACTOS de Hugging Face (tokenizer.json).
 No llama a APIs de proveedores ni pide API keys.
-
 Uso:  python probar.py
 """
 import os
